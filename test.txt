@@ -1,4 +1,6 @@
---set-upstream
+--set-upstr
+
+commit戻し成功
 
 
 
